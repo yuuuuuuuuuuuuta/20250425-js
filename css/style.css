@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+* {
+    box-sizing: border-box;
+}
+
+#myButton {
+    display: block;
+    width: 200px;
+    margin: 25%;
+    font-size: 20px;
+    line-height: 2;
+    color: #fff;
+    background: #4169e1;
+    border: none;
+    box-shadow: 0 6px 0 #191970;
+    border-radius: 10px;
+    cursor: pointer;
+}
